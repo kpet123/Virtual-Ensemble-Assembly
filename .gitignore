@@ -1,0 +1,7 @@
+*.mp4
+*.mov
+part_data/*
+*.swp
+.DS_Store
+*.csv
+.ipynb_checkpoints/*
